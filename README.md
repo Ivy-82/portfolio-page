@@ -1,6 +1,6 @@
 Portfolio Page
 
-author:Ivy.M
+author:Ivy.M.Mutie.
 
 My Page: This is a web page that has Interesting styles and designs.
 
