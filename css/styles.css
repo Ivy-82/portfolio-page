@@ -6,7 +6,7 @@ p {font-family: sans-serif;}
 ul {line-height: 40px}
 body {background-color:pink}
 .important {color: red;}
-.unimportant {color: purple}
+.unimportant {color: pink}
 .web-pages {background-color: yellow;}
 img {float:left;}
 .sidebar {width: 30%; float: right; background-color: yellow;}
